@@ -1,7 +1,5 @@
-# Project Euler Code - Java
+# Project Euler Code
 
 Various Code to solve Project Euler problems written over the years.
-
-This repository comprises of the Java code.
 
 https://projecteuler.net/
